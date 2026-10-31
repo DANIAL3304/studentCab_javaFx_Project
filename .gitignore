@@ -1,0 +1,17 @@
+# Compiled output
+bin/
+*.class
+
+# Zip backups
+*.zip
+
+# Eclipse workspace files
+.metadata/
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
